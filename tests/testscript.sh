@@ -12,5 +12,10 @@ read -n 1
 
 echo "=== Running Test 3 ==="
 ./fakeEmerge.sh test3.txt | python ../main.py
+echo "Press any key to continue..."
+read -n 1
+
+echo "=== Running Test 4 ==="
+./fakeEmerge.sh testLong.txt | python ../main.py
 
 echo "=== All tests completed ==="

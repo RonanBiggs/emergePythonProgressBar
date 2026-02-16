@@ -18,5 +18,5 @@ fi
 # Read file line by line and echo with delay
 while IFS= read -r line; do
     echo "$line"
-    sleep 0.1  # Small delay between lines (adjust as needed)
+    sleep 0.1
 done < "$FILENAME"

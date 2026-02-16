@@ -1,0 +1,7 @@
+start
+
+Total: 1 package
+Emerging (1 of 1)
+text
+Installing (1 of 1)
+finished

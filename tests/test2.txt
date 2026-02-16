@@ -1,0 +1,12 @@
+Total: 2 package
+
+Installing: 
+start
+Emerging (1 of 2)
+text
+Installing (1 of 2)
+
+Emerging (2 of 2)
+Installing (2 of 2)
+finished
+

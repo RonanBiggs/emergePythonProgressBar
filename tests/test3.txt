@@ -1,0 +1,15 @@
+Total: 3 package
+
+Installing: 
+start
+Emerging (1 of 3)
+text
+Installing (1 of 3)
+Emerging (2 of 3)
+Installing (2 of 3)
+text
+Emerging (3 of 3)
+Installing (3 of 3)
+
+finished
+
